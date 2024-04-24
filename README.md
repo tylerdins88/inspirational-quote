@@ -2,7 +2,7 @@
 
 ## Description
 
-An Inspirational Quote to help you ponder. Quotes include words of wisdom, simple uplifting messages, and much more.
+An Inspirational Quote to help you ponder. Quotes include words of wisdom, simple uplifting messages, and much more. This was a simple project I built to practice a few skills. The main skills I wanted to touch on are vue 3 framework, api use, and simple css.
 
 ![image](./inspirational-pondering/src/assets/project-thumbnail.jpg)
 
