@@ -58,6 +58,11 @@ button:hover {
             mask: var(--mask);
 }
 
+.quote {
+  height: fit-content;
+  margin-bottom: 10px;
+}
+
 .inverse {  
   position: absolute; 
   bottom: 0; 

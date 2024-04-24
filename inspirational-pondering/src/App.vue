@@ -1,9 +1,11 @@
 <template>
   <p class="descrip">An Inspirational Quote to help you ponder.</p>
-  <div>
+  <div class="quote">
     <QuoteAPI />
   </div>
-  <div class="inverse">Thank You for Visiting.</div>
+  <div class="inverse-wrapper">
+    <div class="inverse">Thank You for Visiting.</div>
+  </div>
 </template>
 
 <script>
