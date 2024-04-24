@@ -4,6 +4,8 @@
 
 An Inspirational Quote to help you ponder. Quotes include words of wisdom, simple uplifting messages, and much more.
 
+![image](./inspirational-pondering/src/assets/project-thumbnail.jpg)
+
 ## Installation
 
 Clone the application to whichever directory you would like to store it on your computer. Once cloned, open the dirctory in your preferred text editor. Then:
